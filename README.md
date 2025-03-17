@@ -30,5 +30,3 @@ A simple, low-code intranet solution for companies to:
 - ✅ OOTB Web Parts
 - ✅ REST API (LinkedIn Integration)
 
-## 📁 Structure Overview
-
